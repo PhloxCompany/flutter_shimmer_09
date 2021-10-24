@@ -3,7 +3,7 @@
 
 Shimmer for Text | Shimmer for ItemList
 --- | --- 
-![Alt text](./assets/images/image1.gif?raw=true "Optional Title") | ![Alt text](./assets/images/image2.gif?raw=true "Optional Title")
+![Flutter Shimmer](./assets/images/image1.gif?raw=true "Optional Title") | ![Flutter Shimmer](./assets/images/image2.gif?raw=true "Optional Title")
 
 ```
 flutter pub get
